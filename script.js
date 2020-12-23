@@ -2,7 +2,7 @@ let font
 let points
 
 function preload() {
-  font = loadFont('Souvenirstd.ttf')
+  font = loadFont('Souvenir-medium.otf')
 }
 
 function setup() {
